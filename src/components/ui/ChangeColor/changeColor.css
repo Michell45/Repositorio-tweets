@@ -1,0 +1,35 @@
+.container-change-color{
+  display: flex;
+   justify-content: center;
+   flex-wrap: wrap;    
+}
+
+.object{
+  width: 20rem;
+  height: 20rem;
+  background-color: #3fe2ee;
+  margin-top: 2rem;
+  align-items: center;
+ 
+}
+
+/* .object-p{
+  text-align: center;
+  color: black;
+} */
+
+#input-color{
+   width: 4rem;
+   height: 2rem;
+   margin-top: 2rem;
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   margin-left: center;
+   align-items: center;
+}
+
+.parrafo{
+  color: black;
+  text-align: center;
+}
